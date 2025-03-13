@@ -1,0 +1,13 @@
+//Open VS code and install python
+ctrl + ~ => open the promt
+type : python --version
+
+//upgrade the version  
+python.exe -m pip install --upgrade pip
+
+Time to install library
+//requests : library
+//beautifulsoup4 : library to extract information from html 
+pip install requests beautifulsoup4 
+
+Time to 
